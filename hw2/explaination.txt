@@ -1,0 +1,5 @@
+1. Screenshot of invoking the figlet function. Running on VM virtual machine using faas-cli.
+2. Screenshot of running $sudo journalctl -u faasd --lines 40.
+3. Screenshot of OpenFaaS gateway after deploying all functions.
+4. Screenshot of invoking slack-request function using FaaS CLI. Get a JSON response.
+5. Screenshot of invoking slack-interactive function using FaaS CLI. Get a JSON response.
